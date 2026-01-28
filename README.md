@@ -4,7 +4,7 @@ This repository contains my weekly Python Notes in Jupyter notebooks.
 
 * [Intro to Python 1](Week%200/2%29%20intro_to_python_1.ipynb)
 * [Intro to Python 2](Week%200/3%29%20intro_to_python_2.ipynb)
-* [Conditions & Loops](Week%200/4%29%20conditions_loops.ipynb)
+* [Conditions & Loops](Week%200/4%29%20condiotions_loops.ipynb)
 * [Patterns](Week%200/5%29%20Patterns.ipynb)
 * [Strings](Week%201/1%29%20Strings.ipynb)
 * [Lists](Week%201/2%29%20Lists.ipynb)
