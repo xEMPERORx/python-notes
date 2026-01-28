@@ -17,7 +17,7 @@ This repository contains my weekly structured notes for learning Python and Data
 
 ## Week 0
 
-* [Curriculum](<Week%200/0)_week_0_ciriculam.ipynb>)
+* [Curriculum](<Week%200/0)%20week_0_ciriculam.ipynb>)
 * [Intro to Data Science](Week%200/1)_intro_to_data_science.ipynb)
 * [Intro to Python 1](Week%200/2)_intro_to_python_1.ipynb)
 * [Intro to Python 2](Week%200/3)_intro_to_python_2.ipynb)
